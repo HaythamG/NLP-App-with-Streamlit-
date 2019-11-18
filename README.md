@@ -13,6 +13,10 @@ Dans ce projet je vais vous montrer une simple application qui applique les fonc
 - Analyse de sentiments 
 - WordCloud.
 
+## Documentation :
+                  - https://streamlit.io
+                  - https://blog.jcharistech.com
+
 
 ![6](https://user-images.githubusercontent.com/48799851/69073071-f98fa180-0a2c-11ea-936e-796b8cab728d.PNG)
 
